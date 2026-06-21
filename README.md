@@ -2,4 +2,4 @@
 
 A simple website to help you model the impact of federal spending on your taxes.
 
-Visit the [website](https://suchtaxesmuchwaste.com/)
+Visit the [website](https://suchtaxesmuchwaste.com/).
